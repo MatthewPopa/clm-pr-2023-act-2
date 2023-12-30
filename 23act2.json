@@ -1,0 +1,439 @@
+[
+    {
+        "tag": "Michael",
+        "realName": "Michael Rollberg",
+        "twitterHandle": "",
+        "rank": 1,
+        "character": "jigglypuff",
+        "voterAverage": 1.2,
+        "winLoss": "71-9",
+        "prEvents": 17,
+        "placements": [
+            {
+                "placing": "1ST",
+                "event": "TRIPOINT SMASH 200"
+            },
+            {
+                "placing": "13TH",
+                "event": "COMBO BREAKER"
+            },
+            {
+                "placing": "1ST",
+                "event": "TRIPOINT: ROMEOVILLE RUMBLE"
+            }
+        ],
+        "blurbAuthor": "Dr. Hunk",
+        "blurb": [
+           "You can’t keep a pink balloon down. Michael has been CLM’s gold standard for consistency for much of his career. The terror of Tripoint Smash held winning records over all PR eligible players this season. The only eligible player to beat him in all of Act 2 was ORLY, who managed to eke out two sets over the Jigglypuff player. Even in this case, Michael was able to beat the veteran Falcon five times in the same period. Managing to dodge Skerzo, who has traditionally been his strongest rival, some questions may remain as to whether Michael can keep his position at the top of the Chicago rankings. Until then, though, he is Act II’s unquestionable top player."
+        ]
+    },
+    {
+        "tag": "Ober",
+        "realName": "Christopher Rodbourne",
+        "twitterHandle": "oberssbm",
+        "rank": 2,
+        "character": "falco",
+        "voterAverage": 2.7,
+        "winLoss": "35-14",
+        "prEvents": 9,
+        "placements": [
+            {
+                "placing": "2ND",
+                "event": "MIDLANE 93"
+            },
+            {
+                "placing": "17TH",
+                "event": "COMBO BREAKER"
+            },
+            {
+                "placing": "1ST",
+                "event": "TRIPOINT SMASH 199"
+            }
+        ],
+        "blurbAuthor": "tenacity",
+        "blurb": [
+            "Chicago’s new number two showed us all that his bird’s wings are incredibly strong, soaring to another new highest placement on the PR at 2nd in Act 2. Looking at Ober’s CLM stats page, it’s almost entirely blue, with the only losses this season coming from some incredibly strong competition. With wins on Blue, Fluid, Ferocitii, and Killablue, Ober made it clear that he was a cut above the rest this season, with his only real poor set record being against Michael, the player ranked above him.",
+            "Ober’s strong performance against the overwhelming majority of CLM helped him climb one more step up the podium, and if he repeats the level of improvement seen between Act 1 and 2, we may see him rise to take down Michael and claim the crown for himself.  "
+        ]
+    },
+    {
+        "tag": "Skerzo",
+        "realName": "Adrian Chavez",
+        "twitterHandle": "skerzo_",
+        "rank": 3,
+        "character": "fox",
+        "voterAverage": 3.65,
+        "winLoss": "22-6",
+        "prEvents": 8,
+        "placements": [
+            {
+                "placing": "5TH",
+                "event": "COMBO BREAKER"
+            },
+            {
+                "placing": "2ND",
+                "event": "MIDLANE 89"
+            },
+            {
+                "placing": "17TH",
+                "event": "GET ON MY LEVEL"
+            }
+        ],
+        "blurbAuthor": "tenacity",
+        "blurb": [
+            "There’s so much to be said about Skerzo’s Act 2, and so much discussion around where he should be placed on this season’s PR. From lowlights in local set losses to Fry and Jopps, to out of region highlights, beating Jmook, Preeminent, and Grab. While he did go winless at home, not taking the top spot at a single Midlane Melee throughout Act 2, he far and away had the best overall season of any player, and found himself ranked in the First-Half 2023 Top 50 Rankings.", 
+            "Skerzo’s attitude towards locals going into next season will likely determine how he places, and subsequently where he finds himself on the PR at the end of the year in Act 3.  Whether he takes Midlane seriously or not, there’s one thing to be certain, Skerzo is always in the conversation for the overall first seed, and regardless of whether it's happy hour or not, there’s a good chance he’ll win either way."
+        ]
+    },
+    {
+        "tag": "Ferocitii",
+        "realName": "Eric Giovanni",
+        "twitterHandle": "Ferocitii",
+        "rank": 4,
+        "character": "peach",
+        "voterAverage": 3.8,
+        "winLoss": "62-21",
+        "prEvents": 15,
+        "placements": [
+            {
+                "placing": "1ST",
+                "event": "MIDLANE 90"
+            },
+            {
+                "placing": "25TH",
+                "event": "COMBO BREAKER"
+            },
+            {
+                "placing": "1ST",
+                "event": "MIDLANE 87"
+            }
+        ],
+        "blurbAuthor": "Dr. Hunk",
+        "blurb": [
+            "When Ferocitii isn’t inadvertently spawning discourse about the legality of rectangular controllers or streaming his Coinbox runs, you can catch him near the top placements at Midlane Melee and Tripoint Smash.",
+            "This season saw the blue Peach player contend with old foes and fend off new ones. His new rivalry with Peanutphobia ended in an even, 1-1 record. He also went 1-1 this season with Ober, a player he has faced dozens upon dozens of times. Meanwhile, his quest for an answer to the infamous Peach Puff matchup left him with a 0-3 record against his demon Michael, but a 3-2 record over rising star Josh.",
+            "Some of Peach’s traditional problem matchups have continued to trip him up, however. His 1-2 record against ORLY comes to mind, as does his 0-1 record against the scarcely seen CLM Sheik Larfen. Still, even with Ober and with winning records over Certified, Dragoid and Chef, Ferocitii has maintained his position as Chicagoland’s top Peach for another season."
+        ]
+    },
+    {
+        "tag": "Peanutphobia",
+        "realName": "Mike O'Mailey",
+        "twitterHandle": "peanutphobia",
+        "rank": 5,
+        "character": "yoshi",
+        "voterAverage": 5.3,
+        "winLoss": "35-9",
+        "prEvents": 8,
+        "placements": [ 
+            {
+                "placing": "1ST",
+                "event": "MIDLANE 92"
+            },
+            {
+                "placing": "2ND",
+                "event": "MIDLANE 89"
+            },
+            {
+                "placing": "17TH",
+                "event": "COMBO BREAKER"
+            }
+        ],
+        "blurbAuthor": "tenacity",
+        "blurb": [
+            "The MD/VA-CLM transplant started an egg-fueled rampage in his first full season in Chicago. With a set record of 35-9, Peanutphobia made it clear that he deserved the top 5 spot that he claimed in CLM’s Act 2. The new top Yoshi in CLM won sets against Ferocitii (1-1), Killablue (2-1), Dragoid (1-0), Unsure (2-0), GI0GOAT (1-0), and Certified (3-1) in an incredibly consistent season. He also ended the season with a 2-1 record against Fluid, with all three sets coming at Midlane Melee 92, where he took first place, despite being bracket reset in Grand Finals against the ICs main.",
+            "Peanutphobia proved he can take first place in Chicago against many of the city’s best, but without sets against several of CLM’s best, he was unable to climb past 5th on this season’s PR. With many more events to come in Act 3 and a fully settled Peanutphobia in Chicago, the newest member of our top 5 looks to create even more of a scramble in the Windy City. "
+        ]
+    },
+    {
+        "tag": "Josh",
+        "realName": "Josh Son",
+        "twitterHandle": "joshthekong",
+        "rank": 6,
+        "character": "jigglypuff",
+        "voterAverage": 6.7,
+        "winLoss": "40-24",
+        "prEvents": 14,
+        "placements": [
+            {
+                "placing": "1ST",
+                "event": "MIDLANE 95"
+            },
+            {
+                "placing": "7TH",
+                "event": "BODIED 4"
+            },
+            {
+                "placing": "1ST",
+                "event": "MIDLANE 88"
+            }
+        ],
+        "blurbAuthor": "lovestory4a",
+        "blurb": [
+            "One of Chicago’s most promising young stars, Josh cemented himself as the new puff around the block who’s capable of winning tournaments over PR mainstays. Starting his melee career in early 2021, Josh has made Tripoint Smash his training ground, where he would play ORLY, Trevor, and Michael on a weekly basis. Sooner rather than later, Josh would begin winning TPS over every regular not named Michael.",
+            "In ACT II, Josh, aka Flash’s Friend, would make the trip to Midlane for the very first time. Throughout three showings at Chicago’s premier local, he found himself holding a 66.67% first-place win rate. Bringing home the trophy twice over the likes of Ferocitii and Ober. Adding him to an exclusive list of people that have won both Midlane and TPS.",
+            "Considering Josh’s suburban lifestyle, seeing him at BODIED 4, a tournament he only went to because of a family vacation, was surprising. At his first out of state regional, he would impressively place in the top 8, taking out Michigan’s best falcon, JCubez.",
+            "Josh managed to end the season with positive h2h’s over Killablue (1-0), Ober (2-0), Eggy (1-0) and ORLY (3-2). He remains one of the most consistent players in CLM, often clutching out last stock situations with rest. As he turns 19 in two months, we can only expect further improvement and new names added to his resume of good wins. The Slippi era has blessed many scenes with promising players, like chef & Josh, who are here to make a name for themselves. Josh has already begun his legacy by becoming the fourth puff to appear on Chicago’s PR since 2015, joining the likes of Michael, Mr. F, and Prince Abu."
+        ]
+    },
+    {
+        "tag": "Killablue",
+        "realName": "Enrique Carvajal",
+        "twitterHandle": "KillaBlue23",
+        "rank": 7,
+        "character": "falco",
+        "voterAverage": 7.65,
+        "winLoss": "49-25",
+        "prEvents": 14,
+        "placements": [
+            {
+                "placing": "1ST",
+                "event": "MIDLANE 95"
+            },
+            {
+                "placing": "3RD",
+                "event": "MIDLANE 90"
+            },
+            {
+                "placing": "3RD",
+                "event": "MIDLANE 81"
+            }
+        ],
+        "blurbAuthor": "Dragoid",
+        "blurb": [
+            "An exceedingly rare sight to behold appears on the Chicagoland Power Rankings - a Falco! In reality, Killablue returns as a keepsake name in Chicago at 7th this season. In a previous article, Larfen states, “Killablue has slowly turned into a player that no one in Chicago feels safe from.” I’d like to take this a step further, and go as far to say that Killablue is turning into a player that very few players should not fear. Killablue reached new heights this season winning Midlane 95. After being upset in winners quarters by perfume, he went on to defeat Kaiser 2-0, Forest 2-0, Olivia 3-2,  Dragoid 3-2, deez 3-1, and Unsure in two game 5 sets to take first.",
+            "Killablue saw incredible highs such as an impressive 5-1 record on Unsure, 2-0 record on Certified, a 2-0 record on Dragoid, splitting sets with Ober (1-1), Skerzo (1-1, who he notably beat at Invincible VII) and Ferocitii (1-1). Despite these highs, Eggy, chef, perfume, and Josh all maintained clean records against Killablue. Chicago will have to continue to watch this bird continue to soar higher as he reaches for new peaks."
+        ]
+    },
+    {
+        "tag": "Eggy",
+        "realName": "Ruben Morin",
+        "twitterHandle": "rubzterz",
+        "rank": 8,
+        "character": "peach",
+        "voterAverage": 7.9,
+        "winLoss": "19-10",
+        "prEvents": 9,
+        "placements": [
+            {
+                "placing": "2ND",
+                "event": "MIDLANE 90"
+            },
+            {
+                "placing": "2ND",
+                "event": "THE CONSTRUCT 185"
+            },
+            {
+                "placing": "17TH",
+                "event": "COMBO BREAKER"
+            }
+        ],
+        "blurbAuthor": "Dr. Hunk",
+        "blurb": [
+            "Eggy’s 2023 has sometimes felt like a return to normal after the underrated Peach player’s numerous breakout performances in 2022. Sometimes overshadowed by the flashier, weirder Peach of Ferocitii, who split sets with Eggy this past season, Eggy failed to find wins over Ober or Josh this season, but remained a reliable CLM gatekeeper. Outside of being upset by Surskim at Midlane 87, Eggy kept winning records over everyone below him on this season’s PR, as well as a 2-0 record over Killablue. That said, other players ranked over him like Josh and Ober presented a problem the Daisy player could not solve. "
+        ]
+    },
+    {
+        "tag": "ORLY",
+        "realName": "Chris Brittain",
+        "twitterHandle": "kneelord",
+        "rank": 9,
+        "character": "captain falcon",
+        "voterAverage": 9,
+        "winLoss": "30-22",
+        "prEvents": 13,
+        "placements": [
+            {
+                "placing": "3RD",
+                "event": "TRIPOINT SMASH 190"
+            },
+            {
+                "placing": "3RD",
+                "event": "TRIPOINT SMASH 191"
+            },
+            {
+                "placing": "2ND",
+                "event": "TRIPOINT SMASH 197"
+            }
+        ],
+        "blurbAuthor": "influenza",
+        "blurb": [
+            "Despite only going to events with Project+, Chris \"ORLY\" Brittain has built up an impressive resume and returned to the Chicagoland Melee PR at 9th after a long absence since Autumn of 2021. Though not quite at his former level of dominance, peaking at #2 in 2019, ORLY is a quintessential part of CLM's old guard, and it's good to have him back. With wins against Michael, Josh, and Eggy, as well as a positive record against threats like Ferocitii, chef, Forest, ORLY made it easy for PR Ballot voters to put him high in their rankings, and rightly so.",
+            "Throughout Act 2, ORLY had perfect attendance at Tripoint, and made top 8 at  8 at the 13 events he entered. In notable out of state performances, at events in Wisconsin and Indiana specifically, ORLY has done well too, with a winning record on Wisconsin's #2, Lord English, on several strong runs at the Construct. ORLY has shown time and again that he is the RL deal, with his recent series of performances, and knowing his potential from past seasons, it might just be time to say, “He’s back.”"
+        ]
+    },
+    {
+        "tag": "Unsure",
+        "realName": "Andrew Bisciglia",
+        "twitterHandle": "ABisciglia",
+        "rank": 10,
+        "character": "fox",
+        "voterAverage": 10.15,
+        "winLoss": "56-30",
+        "prEvents": 14,
+        "placements": [
+            {
+                "placing": "2ND",
+                "event": "MIDLANE 95"
+            },
+            {
+                "placing": "3RD",
+                "event": "MIDLANE 93"
+            },
+            {
+                "placing": "3RD",
+                "event": "MIDLANE 88"
+            }
+        ],
+        "blurbAuthor": "tenacity",
+        "blurb": [
+           "The father of CLM turned into the city’s gatekeeper this season as he blocked the path of many who looked to achieve single digits on this PR. With few standout losses, namely to Fasthands, Ashley and Doctahdylan, Unsure was consistently defeating those trying to reach the peaks of Chicagoland Melee, and the PR. This season, he claimed winning records on Josh, Forest, and Frost, took a set against Killablue, and went even with Certified and Dragoid (2-2 with both). Unsure also managed to keep many PR challengers at bay, with undefeated records against the rest of Chicagoland outside of some blemishes, such as a losing record to macdaddy69 and an invading Umma.",
+           "Despite a generally strong season against the rest of the scene, Unsure was unable to take on the competition at the top level, and move past double digits on the PR in Act 2. Unsure looks to kick off Act 3 with a bang and replicate his out of region success, which included a win at The Construct X in Wisconsin, after a deep losers bracket run. With a slew of top placements at Midlane, Unsure has yet to take the crown at Midlane Melee, but looks to cap off the year in Act 3 by putting that streak to an end."
+        ]
+    },
+    {
+        "tag": "Chef",
+        "realName": "Andrew Basiorka",
+        "twitterHandle": "chefffatron",
+        "rank": 11,
+        "character": "fox",
+        "voterAverage": 10.2,
+        "winLoss": "31-17",
+        "prEvents": 9,
+        "placements": [
+            {
+                "placing": "3RD",
+                "event": "TRIPOINT SMASH 200"
+            },
+            {
+                "placing": "3RD",
+                "event": "MIDLANE 88"
+            },
+            {
+                "placing": "4TH",
+                "event": "TRIPOINT SMASH 190"
+            }
+        ],
+        "blurbAuthor": "lovestory4a",
+        "blurb": [ 
+           "In March 2020, inspired by “The Smash Brothers” documentary, a 14-year-old chef and his friend bobo made a list of players to beat in CLM. They noted that in 2 years they’d be PR’d. After three long years of grinding the game, going from Falco to Fox, crossing names off his list, and countless sessions with Ober & Josh, finally, chef debuts on the Chicago PR thanks to his flashy and hard-hitting playstyle at 11th.",
+           "Chef’s ACT II season saw him capture two exciting 3rd place finishes at Tripoint and Midlane. In the former, chef went on a run, defeating ORLY, Jisp, Dirtboy, and Josh before falling to Ober in a close game-five set. At his second ever Midlane, chef snagged wins on Larfen, Forest, and clutched game five versus Unsure. Across nine tournaments (all of which he placed no lower than 7th), the young Fox main secured positive records over Unsure (2-0), Killablue (2-0), Forest (1-0), and perfume (1-0). Despite his lifetime positive record over Josh, their rivalry ended this season in Josh’s favor, 3-2.",
+           "As chef begins to enjoy his early melee retirement, he can exit the game satisfied, knowing that he achieved his goal of being ranked in Chicago. A return to competing in melee is uncertain for chef, perhaps a few locals here and there for the fans. As far as taking the game seriously, this might be the only time chef’s name is up there with CLM’s best players. For now, chef has set his sights on achieving new goals, and with the help of his childhood friend bobo, we can anticipate chef getting jacked and making hella racks."
+        ]
+    },
+    {
+        "tag": "Certified",
+        "realName": "Kevin Galvan Cuesta",
+        "twitterHandle": "certifiedssbm",
+        "rank": 12,
+        "character": "fox",
+        "voterAverage": 11.2,
+        "winLoss": "41-23",
+        "prEvents": 12,
+        "placements": [ 
+            {
+                "placing": "3RD",
+                "event": "MIDLANE 92"
+            },
+            {
+                "placing": "65TH",
+                "event": "GET ON MY LEVEL"
+            },
+            {
+                "placing": "4TH",
+                "event": "MIDLANE 79"
+            }
+        ],
+        "blurbAuthor": "tenacity",
+        "blurb": [
+            "Certified broke into the CLM PR for their first time this season, with standout wins against CLM’s best, shaking our new king’s crown with their win against Skerzo at Midlane 91. The lowest player by CLM stats rating that Certified lost to in Act 2 was Azzu, a previous PR staple in Chicago, who they split sets with 1-1, that stat alone shows the standard of play that Certified was meeting throughout the season. Throughout Act 2, Certified took wins against Skerzo, Peanutphobia, Unsure, Scooby, GI0GOAT, Forest, lovestory4a. Of the in-region players they faced throughout the season only failed to take sets against 3 of them, all of whom are ranked above them in the top 10.",
+            "Certified made it clear they can take wins against CLM’s best, and we may very well see them continue to make a name for themselves as a Fox main to fear in Chicago. As they capped off Act 2 with a 3rd place finish at Midlane 92, Certified may find themselves in the top 3 more often, if they can keep defying expectations and making upsets, as they have shown their ability to do so far. "
+        ]
+    },
+    {
+        "tag": "Dragoid",
+        "realName": "John Sori",
+        "twitterHandle": "ImDragoid",
+        "rank": 13,
+        "character": "falco",
+        "voterAverage": 12.7,
+        "winLoss": "43-20",
+        "prEvents": 10,
+        "placements": [
+            {
+                "placing": "3RD",
+                "event": "MIDLANE 80"
+            },
+            {
+                "placing": "4TH",
+                "event": "MIDLANE 94"
+            },
+            {
+                "placing": "4TH",
+                "event": "MIDLANE 95"
+            }
+        ],
+        "blurbAuthor": "tenacity",
+        "blurb": [
+            "After missing out on the PR in Act 1, Dragoid started Act 2 off with a bang, with a 3rd place at Midlane 80, losing only to Blue, the eventual winner, kicking off an overall strong season for the stubborn bird. Overall, Dragoid had a consistent season against the majority of those ranked below him. With zero sets dropped to in-region players ranked below him except for GI0GOAT (0-1) and Frost (2-3). Dragoid found himself daring off stage and pillaring his way to wins against Unsure, who he split sets with 2-2, Perfume, who he won both sets against, macdaddy69, who he also won both sets against, and Forest, whom he took the win from their only set this season.",
+            "Playing at a consistent level helped Dragoid find his way back on the CLM PR in Act 2 at 13th, and with this newfound consistency comes a hunger to make waves on his road to single digits, against the players ranked above him. Dragoid has shown he can make deep tournament runs, he just needs to take a few more key sets against CLM’s top dogs in order to take his bird to the next level, Act 3 will prove whether he is able to make that happen, and fly along with Falco to the next step of his Melee journey."
+        ]
+    },
+    {
+        "tag": "Frost",
+        "realName": "Alex Ronquillo",
+        "twitterHandle": "FrostxNight",
+        "rank": 14,
+        "character": "samus",
+        "voterAverage": 13.6,
+        "winLoss": "27-16",
+        "prEvents": 8,
+        "placements": [ 
+            {
+                "placing": "5TH",
+                "event": "MIDLANE 80"
+            },
+            {
+                "placing": "5TH",
+                "event": "MIDLANE 88"
+            },
+            {
+                "placing": "5TH",
+                "event": "MIDLANE 94"
+            }
+        ],
+        "blurbAuthor": "Dragoid",
+        "blurb": [
+           "Chicago's modern day favorite Samus (sorry Pleasantries) makes his return to the power rankings during another tough season here in Chicagoland. Frost excelled against our Falcos splitting sets with both Killablue (1-1) and Dragoid (3-3). As well as 1-0 against Azzu, although you can never know what character Azzu was playing on any given day. Frost managed to find a win against the -fairly inactive- macdaddy69 with a 1-0 record for the season and split sets with Forest (1-1). During a summer with many extremely stacked regionals Frost found one of his best wins at Coin’s infamous Bodied series taking down one of Michigan’s finest in Negat!ve.",
+           "While Frost managed to find success in many places, he also faced roadblocks. The biggest roadblocks formed in the shapes of sheik and fox with losing records to the likes of Unsure, Chef, perfume, and even lovestory4a . If Frost can find some solutions to a few of these roadblocks, we will certainly see his ceiling continue to reach new heights."
+        ]
+    },
+    {
+        "tag": "Forest",
+        "realName": "Thomas Zhang",
+        "twitterHandle": "thomasfzhang",
+        "rank": 15,
+        "character": "marth",
+        "voterAverage": 15,
+        "winLoss": "22-20",
+        "prEvents": 10,
+        "placements": [ 
+            {
+                "placing": "25TH",
+                "event": "COMBO BREAKER"
+            },
+            {
+                "placing": "33RD",
+                "event": "BATTLE OF BC"
+            },
+            {
+                "placing": "5TH",
+                "event": "MIDLANE 88"
+            }
+        ],
+        "blurbAuthor": "Kadence",
+        "blurb": [
+           "Forest is a great example of the high bar that’s still required to be a PR player in 2023. Despite falling a few places from last season, Forest has solidified his status by having few non-ranked losses, especially true when considering previously-ranked opponents. Maintaining a positive record on Josh while also being able to take sets off of Killablue is something few were able to do this season.",
+           "One of Forest’s many highlights this season was his 25th place finish at Combo Breaker, Melee’s first year back to the large FGC event, and he looks to add many more strong placements both in and out of region, going into Act 3. Look forward to seeing this studious swordsman make waves in the midwest next act."
+        ]
+    }
+]
