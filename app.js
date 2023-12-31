@@ -103,6 +103,10 @@ function scrollEvent(delta) {
     }
 }
 
+window.addEventListener("orientationchange", function() {
+    setTimeout(() => {resizeContents();}, 500);
+});
+
 let timeout = false;
 
 window.addEventListener('resize', function() {
