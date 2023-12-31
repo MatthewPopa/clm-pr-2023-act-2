@@ -4,7 +4,9 @@ window.onload = (event) => {
     document.querySelector('#loader').classList.add('done');
     document.querySelector('.container').classList.add('done');
     setTimeout(() => {document.querySelector('#loader').style.display = "none";}, 500);
-    setTimeout(() => {mouseIcon.classList.add('waiting');}, 5000);
+    if (!scrolled) {
+        setTimeout(() => {mouseIcon.classList.add('waiting');}, 5000);
+    }
 };
 
 let prData;
@@ -34,6 +36,37 @@ function createImageArray() {
     }
 }
 
+//mobile scroll
+window.addEventListener("touchstart", startTouch, false);
+window.addEventListener("touchmove", moveTouch, false);
+
+let initialY = null;
+
+function startTouch(e) {
+  initialY = e.touches[0].clientY;
+};
+
+function moveTouch(e) {
+
+  if (initialY === null) {
+    return;
+  }
+
+  let currentY = e.touches[0].clientY;
+
+  let diffY = initialY - currentY;
+
+    if (diffY > 0  && (mediaQuery.matches)) {
+        scrollEvent(120)
+    } else if (mediaQuery.matches) {
+        scrollEvent(-120)
+    }  
+
+  initialY = null;
+
+  e.preventDefault();
+};
+
 const mediaQuery = window.matchMedia('(min-width: 768px)');
 const mouseIcon = document.querySelector('.mouse-icon');
 
@@ -42,6 +75,8 @@ window.addEventListener('wheel', (e) => {
         scrollEvent(e.deltaY);
     }
 });
+
+let scrolled = false;
 
 function scrollEvent(delta) {
     let rightTop = document.querySelector('.right-top');
@@ -61,6 +96,10 @@ function scrollEvent(delta) {
             rightTop.classList.remove('scrolled-down');
             rightBot.classList.remove('scrolled-down');
         }
+    }
+    scrolled = true;
+    if (scrolled) {
+        mouseIcon.style.display = "none"
     }
 }
 

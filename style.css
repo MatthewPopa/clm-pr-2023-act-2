@@ -251,6 +251,7 @@ h1 > span {
     grid-area: 1 / 2 / 2 / 3;
     position: fixed;
     width: 50%;
+    right: 0;
     justify-self: flex-end;
     z-index: 2;
     margin-top: 0vh;
@@ -262,6 +263,7 @@ h1 > span {
     grid-area: 2 / 2 / 3 / 3;
     position: fixed;
     width: 50%;
+    right: 0;
     justify-self: flex-end;
     margin-top: 100vh;
     transition: margin-top .4s ease-in-out;
@@ -681,7 +683,7 @@ a#logo-link:hover {
   }
 
 /* BREAKPOINTS */
-@media screen and (width < 768px) {
+@media screen and (max-width: 768px) {
     body {
         overflow: unset;
         overflow-x: hidden;
@@ -793,4 +795,10 @@ a#logo-link:hover {
         position: fixed;
         background: radial-gradient(60vw 60vh at 80vw bottom,rgba(242,50,68,.18),rgba(116,68,160,.18),var(--background));
     }
-  }
+}
+
+@media (max-height: 600px) {
+    .player-rank {
+        margin-top: 10%;
+    }
+}
