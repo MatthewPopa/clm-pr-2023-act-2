@@ -168,7 +168,7 @@ h1 > span {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    position: absolute;
+    position: fixed;
     -webkit-writing-mode: vertical-rl;
     writing-mode: vertical-rl;
     z-index: 3;
@@ -334,6 +334,18 @@ h1 > span {
     z-index: 3;
 }
 
+#twitter-logo {
+    color: var(--white);
+    width: 1em;
+    padding-top: .2em;
+}
+
+#twitter-link {
+    display: flex;
+    align-items: baseline;
+    gap: .25ch;
+}
+
 a {
     text-decoration: none;
     color: unset;
@@ -347,11 +359,6 @@ a:hover {
 a#logo-link:hover {
     opacity: unset;
     transform: scale(.95);
-}
-
-#twitter-logo {
-    color: var(--white);
-    width: 1em;
 }
 
 .cls-twit {
@@ -510,7 +517,9 @@ a#logo-link:hover {
 
 .player-data {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
+    gap: 1em;
+    flex-wrap: wrap;
     margin-bottom: 3em;
 }
 
@@ -708,6 +717,13 @@ a#logo-link:hover {
         margin: unset;
         width: 100%;
     }
+    .right-top.scrolled-down {
+        margin-top: unset;
+    }
+    
+    .right-bottom.scrolled-down {
+        margin-top: unset;
+    }
     .sidebar {
         width: 100%;
         writing-mode: unset;
@@ -798,7 +814,46 @@ a#logo-link:hover {
 }
 
 @media (max-height: 600px) {
+    .sidebar {
+        height: 100dvh;
+        position: fixed;
+    }
+    .player-selector-container {
+        height: 100dvh;
+        padding-top: 5%;
+    }
+    .player-summary-container {
+        height: 100dvh;
+        padding: 8% 8% 2% 12%;
+    }
+    .sidebar .text {
+        font-size: .8rem;
+    }
     .player-rank {
-        margin-top: 10%;
+        font-size: 10rem;
+    }
+    .player-data {
+        margin-bottom: 1em;
+    }
+    .data-value {
+        font-size: 3rem;
+    }
+    .player-results {
+        font-size: 1.5rem;
+    }
+    .blurb-paragraph, .blurb-author {
+        font-size: 1.2rem;
+    }
+}
+
+@media screen and (max-width: 768px) and (orientation: landscape) {
+    .player-statue {
+        height: 150%;
+    }
+    .sidebar {
+        height: unset;
+    }
+    .player-selection {
+        width: unset;
     }
 }

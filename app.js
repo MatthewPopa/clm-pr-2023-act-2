@@ -56,10 +56,10 @@ function moveTouch(e) {
 
   let diffY = initialY - currentY;
 
-    if (diffY > 0  && (mediaQuery.matches)) {
-        scrollEvent(120)
-    } else if (mediaQuery.matches) {
-        scrollEvent(-120)
+    if (diffY > 0  && (!e.target.closest('.blurb-container')) && (mediaQuery.matches)) {
+        scrollEvent(120);
+    } else if ((!e.target.closest('.blurb-container')) && (mediaQuery.matches)) {
+        scrollEvent(-120);
     }  
 
   initialY = null;
@@ -105,6 +105,7 @@ function scrollEvent(delta) {
 
 window.addEventListener("orientationchange", function() {
     setTimeout(() => {resizeContents();}, 500);
+    scrollEvent(-120);
 });
 
 let timeout = false;
